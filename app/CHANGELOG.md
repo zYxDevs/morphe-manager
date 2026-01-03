@@ -1,3 +1,15 @@
+# app [1.1.0-dev.1](https://github.com/MorpheApp/morphe-manager/compare/v1.0.0...v1.1.0-dev.1) (2026-01-03)
+
+
+### Bug Fixes
+
+* Always use a vertical button layout ([e6f69c8](https://github.com/MorpheApp/morphe-manager/commit/e6f69c82bf0dcc6a832166523e15401886c26e1c))
+
+
+### Features
+
+* Add localization to patch options ([#48](https://github.com/MorpheApp/morphe-manager/issues/48)) ([0e7a203](https://github.com/MorpheApp/morphe-manager/commit/0e7a203819e629f231293896396d5154585dc402))
+
 # app 1.0.0 (2026-01-01)
 
 
