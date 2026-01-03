@@ -119,8 +119,8 @@
     <!-- Morphe Settings Screen -->
     <string name="morphe_settings_return_to_morphe">Návrat na domovskou stránku Morphe</string>
     <string name="morphe_settings_return_to_morphe_description">Návrat do zjednodušeného režimu</string>
-    <string name="morphe_settings_return_to_advanced">Přepnout do pokročilého režimu</string>
-    <string name="morphe_settings_return_to_advanced_description">Přepnout do plně vybaveného pokročilého režimu</string>
+    <string name="morphe_settings_return_to_expert">Přepnout na specializovaný režim</string>
+    <string name="morphe_settings_return_to_expert_description">Přepnout na plný výprovozkový specializovaný režim</string>
     <string name="morphe_share_website">Sdílet webovou stránku</string>
     <string name="morphe_share_website_description">Sdílet oficiální webovou stránku Morphe</string>
     <!-- Appearance Section -->

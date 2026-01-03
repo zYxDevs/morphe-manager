@@ -119,8 +119,8 @@
     <!-- Morphe Settings Screen -->
     <string name="morphe_settings_return_to_morphe">Tionnadh go dtí baile Morphe</string>
     <string name="morphe_settings_return_to_morphe_description">Tionnadh go dtí mód simplí</string>
-    <string name="morphe_settings_return_to_advanced">Athraigh go Mód Ardleibhéil</string>
-    <string name="morphe_settings_return_to_advanced_description">Aistrigh go dtí an modh ardleibhéil lánfheidhmiúil</string>
+    <string name="morphe_settings_return_to_expert">Chúig an mod chosái seo chun an mód tóirisc thú bhí bhíos ag baint úsáide</string>
+    <string name="morphe_settings_return_to_expert_description">Shuas craoligh an mod éigeanta mar thoradh iarmhar</string>
     <string name="morphe_share_website">Roghnaigh Gréasán</string>
     <string name="morphe_share_website_description">Roinn an láithreán gréasáin oifigiúil Morphe</string>
     <!-- Appearance Section -->

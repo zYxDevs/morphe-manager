@@ -119,8 +119,8 @@
     <!-- Morphe Settings Screen -->
     <string name="morphe_settings_return_to_morphe">Повернутися до Morphe</string>
     <string name="morphe_settings_return_to_morphe_description">Повернутися до спрощеного режиму</string>
-    <string name="morphe_settings_return_to_advanced">Змінити на розширений режим</string>
-    <string name="morphe_settings_return_to_advanced_description">Перемикання на повнофункціональний розширений режим</string>
+    <string name="morphe_settings_return_to_expert">Змінити на експертний режим</string>
+    <string name="morphe_settings_return_to_expert_description">Перемкнути до повнофункціонального експертного режиму</string>
     <string name="morphe_share_website">Поділитися вебсайтом</string>
     <string name="morphe_share_website_description">Поділитися офіційним вебсайтом Morphe</string>
     <!-- Appearance Section -->

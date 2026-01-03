@@ -119,8 +119,8 @@
     <!-- Morphe Settings Screen -->
     <string name="morphe_settings_return_to_morphe">Morphe-yə qayıt</string>
     <string name="morphe_settings_return_to_morphe_description">Sadələşdirilmiş rejimə qayıt</string>
-    <string name="morphe_settings_return_to_advanced">Qabaqcıl rejimə keçin</string>
-    <string name="morphe_settings_return_to_advanced_description">Tam xüsusiyyətli qabaqcıl rejimə keçin</string>
+    <string name="morphe_settings_return_to_expert">Чиқарави Чиг орту</string>
+    <string name="morphe_settings_return_to_expert_description">Пۈتەن юзىلىقتىكى Чигийكى Нورسلطەملىك Шەخسىي Чىقىرىмلىق Нەھ چۆكمىلىكегە قاراش</string>
     <string name="morphe_share_website">Saytı paylaş</string>
     <string name="morphe_share_website_description">Rəsmi Morphe veb-saytını paylaşın</string>
     <!-- Appearance Section -->

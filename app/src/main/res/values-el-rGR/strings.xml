@@ -119,8 +119,8 @@
     <!-- Morphe Settings Screen -->
     <string name="morphe_settings_return_to_morphe">Επιστροφή στην αρχική σελίδα Morphe</string>
     <string name="morphe_settings_return_to_morphe_description">Επιστροφή στην απλοποιημένη λειτουργία</string>
-    <string name="morphe_settings_return_to_advanced">Αλλαγή σε προηγμένη λειτουργία</string>
-    <string name="morphe_settings_return_to_advanced_description">Μετάβαση στην πλήρως λειτουργική προηγμένη λειτουργία</string>
+    <string name="morphe_settings_return_to_expert">Μετάβαση στο Προηγμένο Μο ρφέ</string>
+    <string name="morphe_settings_return_to_expert_description">Μετάβαση στο πλήρως εξοπλισμένο Προηγμένο Μορφέ</string>
     <string name="morphe_share_website">Κοινοποίηση Ιστοτόπου</string>
     <string name="morphe_share_website_description">Κοινοποίηση του επίσημου ιστοτόπου του Morphe</string>
     <!-- Appearance Section -->

@@ -119,8 +119,8 @@
     <!-- Morphe Settings Screen -->
     <string name="morphe_settings_return_to_morphe">Retornar para a Morphe</string>
     <string name="morphe_settings_return_to_morphe_description">Retornar ao modo simplificado</string>
-    <string name="morphe_settings_return_to_advanced">Mudar para o modo avançado</string>
-    <string name="morphe_settings_return_to_advanced_description">Alternar para o modo avançado completo</string>
+    <string name="morphe_settings_return_to_expert">Mudar para o modo Expert</string>
+    <string name="morphe_settings_return_to_expert_description">Alternar para o modo expert completo</string>
     <string name="morphe_share_website">Compartilhar site</string>
     <string name="morphe_share_website_description">Compartilhe o site oficial da Morphe</string>
     <!-- Appearance Section -->

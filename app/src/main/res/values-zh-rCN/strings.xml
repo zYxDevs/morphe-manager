@@ -119,8 +119,8 @@
     <!-- Morphe Settings Screen -->
     <string name="morphe_settings_return_to_morphe">返回 Morphe 主页</string>
     <string name="morphe_settings_return_to_morphe_description">返回简化模式</string>
-    <string name="morphe_settings_return_to_advanced">切换到高级模式</string>
-    <string name="morphe_settings_return_to_advanced_description">切换到功能齐全的高级模式</string>
+    <string name="morphe_settings_return_to_expert">切换至专家模式</string>
+    <string name="morphe_settings_return_to_expert_description">切换至功能完整的专家模式</string>
     <string name="morphe_share_website">分享网站</string>
     <string name="morphe_share_website_description">分享官方的 Morphe 网站</string>
     <!-- Appearance Section -->
@@ -282,6 +282,7 @@
     <string name="advanced_description">API URL，内存限制，调试</string>
     <string name="about">关于</string>
     <!-- Morphe -->
+    <string name="accent_color_presets">表西颜</string>
     <!-- Morphe -->
     <!-- Morphe -->
     <!-- Morphe -->

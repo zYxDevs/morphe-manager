@@ -4,17 +4,17 @@
     <string name="morphe_home_bundles">ชุดแพตช์</string>
     <string name="morphe_home_greeting_1">คุณต้องการแพ็ตช์แอปใด</string>
     <!-- Humorous hype message with light nostalgia -->
-    <string name="morphe_home_greeting_2">พร้อมแล้วที่จะทำให้ YouTube กลับมาเป็นตำนานอีกครั้งหรือไม่</string>
+    <string name="morphe_home_greeting_2">พร้อมหรือยังที่จะให้ YouTube กลับมาเป็นตำนานอีกครั้ง</string>
     <!-- "Buckle up" referring to fasten your vehicle seat belt. A light-hearted joke to build excitement. -->
     <string name="morphe_home_greeting_3">คาดเข็มขัดนะ เวลาเพิ่มแพ็ตช์แล้ว</string>
     <!-- Sarcastic joke about blocking ads, intentionally over-the-top -->
     <string name="morphe_home_greeting_4">อีกวันหนึ่งผ่านไป อีกผลงานระดับมาสเตอร์กับการบล็อกโฆษณา</string>
     <!-- "Watch ads" refers to watching video ads in unpatched apps -->
-    <string name="morphe_home_greeting_5">อยากดูโฆษณาหรือ? ผมก็ไม่ใช่</string>
+    <string name="morphe_home_greeting_5">อยากดูโฆษณาไหม? ผมไม่เอาล่ะหนึ่ง</string>
     <!-- Friendly, slightly mischievous joke about controlling app behavior -->
     <string name="morphe_home_greeting_6">มาทำให้แอปพลิเคชันของคุณมีพฤติกรรมที่ดีขึ้นกันเถอะ</string>
     <!-- Whimsical forecast-style joke, not meant literally -->
-    <string name="morphe_home_greeting_7">คาดการณ์ของวันนี้: โอกาสแก้ไขแอปพลิเคชันร้อยเปอร์เซ็นต์</string>
+    <string name="morphe_home_greeting_7">พยากรณ์วันนี้: การแพตซ์แอปพลิเคชันมีโอกาสทั้งหมด 100%</string>
     <!-- From mediocrity to amazing -->
     <string name="morphe_home_greeting_8">พร้อมที่จะเปลี่ยนสิ่งที่ไม่น่าประทับใจให้กลายเป็นสุดยอดไหม?</string>
     <!-- Playful exaggeration, making patching feel heroic -->
@@ -62,7 +62,7 @@
     <string name="morphe_root_install_apk_required">โหมด Root จำเป็นต้องติดตั้ง APK ต้นฉบับไว้ในอุปกรณ์ของคุณก่อนทำการแพตช์</string>
     <string name="morphe_root_gmscore_excluded">การรองรับ GmsCore ถูกยกเว้นในโหมด Root</string>
     <!-- Morphe Patcher Screen -->
-    <string name="morphe_patcher_save_apk">บันทึก APK</string>
+    <string name="morphe_patcher_save_apk">บันทึกไฟล์ APK</string>
     <string name="morphe_patcher_copy_error">ข้อผิดพลาดในการคัดลอก</string>
     <string name="morphe_patcher_show_error">แสดงข้อผิดพลาด</string>
     <string name="morphe_patcher_error_copied">คัดลอกข้อผิดพลาดไปยังคลิปบอร์ดแล้ว</string>
@@ -119,8 +119,8 @@
     <!-- Morphe Settings Screen -->
     <string name="morphe_settings_return_to_morphe">กลับหน้าหลัก Morphe</string>
     <string name="morphe_settings_return_to_morphe_description">กลับสู่โหมดธรรมดา</string>
-    <string name="morphe_settings_return_to_advanced">เปลี่ยนเป็นโหมดขั้นสูง</string>
-    <string name="morphe_settings_return_to_advanced_description">สลับไปยังโหมดขั้นสูงที่พร้อมใช้งานเต็มรูปแบบ</string>
+    <string name="morphe_settings_return_to_expert">Change to Expert mode</string>
+    <string name="morphe_settings_return_to_expert_description">Switch to the full-featured expert mode</string>
     <string name="morphe_share_website">แชร์เว็บไซต์</string>
     <string name="morphe_share_website_description">แชร์เว็บไซต์ทางการของ Morphe</string>
     <!-- Appearance Section -->
@@ -586,12 +586,14 @@
     <string name="device_memory_limit_format">%1$dMB (ปกติ) - %2$dMB (ใหญ่)</string>
     <string name="patches_force_download">บังคับดาวน์โหลดชุดแพตช์ทั้งหมด</string>
     <string name="patches_reset">รีเซ็ตชุดแพตช์</string>
+    <string name="storage">ที่เก็บข้อมูล</string>
     <string name="no_patch_found">ไม่พบแพตช์ โปรดตรวจสอบแพตช์ของคุณ</string>
     <string name="tab_apps">แอป</string>
     <string name="tab_patches">ชุดแพตช์</string>
     <string name="tab_profiles">โปรไฟล์แพตช์</string>
     <string name="delete">ลบ</string>
     <string name="disable">ปิดการใช้งาน</string>
+    <string name="enable">อนุญาต</string>
     <string name="patch_bundle_disabled_toast">ปิด %d แพ็คเกจ</string>
     <string name="patch_bundle_enabled_toast">เปิด %d แพ็คเกจ</string>
     <string name="patches_disable_single_dialog_description">ปิด \'%s\'?</string>

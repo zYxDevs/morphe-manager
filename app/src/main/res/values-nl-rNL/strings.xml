@@ -119,8 +119,8 @@
     <!-- Morphe Settings Screen -->
     <string name="morphe_settings_return_to_morphe">Terug naar Morphe-startscherm</string>
     <string name="morphe_settings_return_to_morphe_description">Terugkeren naar vereenvoudigde modus</string>
-    <string name="morphe_settings_return_to_advanced">Omschakelen naar Geavanceerde modus</string>
-    <string name="morphe_settings_return_to_advanced_description">Schakelen naar de geavanceerde modus met alle functies</string>
+    <string name="morphe_settings_return_to_expert">Schakel over naar Expertmodus</string>
+    <string name="morphe_settings_return_to_expert_description">Schakel over naar de volledig ondersteunde expertmodus</string>
     <string name="morphe_share_website">Website delen</string>
     <string name="morphe_share_website_description">De officiële Morphe website delen</string>
     <!-- Appearance Section -->

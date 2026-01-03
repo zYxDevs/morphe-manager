@@ -119,8 +119,8 @@
     <!-- Morphe Settings Screen -->
     <string name="morphe_settings_return_to_morphe">Palaa Morphen kotisivulle</string>
     <string name="morphe_settings_return_to_morphe_description">Palaa yksinkertaistettuun tilaan</string>
-    <string name="morphe_settings_return_to_advanced">Vaihda edistyneeseen tilaan</string>
-    <string name="morphe_settings_return_to_advanced_description">Vaihda täysin varusteltuun edistyneeseen tilaan</string>
+    <string name="morphe_settings_return_to_expert">Vaihda experttimoodiin</string>
+    <string name="morphe_settings_return_to_expert_description">Siirry täysiarvoiseen experttimodeeseen</string>
     <string name="morphe_share_website">Jaa verkkosivusto</string>
     <string name="morphe_share_website_description">Jaa virallinen Morphe-verkkosivusto</string>
     <!-- Appearance Section -->

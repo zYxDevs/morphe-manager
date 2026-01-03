@@ -119,8 +119,8 @@
     <!-- Morphe Settings Screen -->
     <string name="morphe_settings_return_to_morphe">Врати се на почетну страницу Морфе</string>
     <string name="morphe_settings_return_to_morphe_description">Врати се на поједностављени режим</string>
-    <string name="morphe_settings_return_to_advanced">Пређи на напредни режим</string>
-    <string name="morphe_settings_return_to_advanced_description">Пребаци се на напредни режим са свим функцијама</string>
+    <string name="morphe_settings_return_to_expert">Promijeni na ekspertski načan</string>
+    <string name="morphe_settings_return_to_expert_description">Promijeni na punofunkcionalni ekspertski načan</string>
     <string name="morphe_share_website">Дели веб-сајт</string>
     <string name="morphe_share_website_description">Делите званични веб-сајт Морфе</string>
     <!-- Appearance Section -->

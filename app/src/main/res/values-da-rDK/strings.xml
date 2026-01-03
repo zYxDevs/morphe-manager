@@ -119,8 +119,8 @@
     <!-- Morphe Settings Screen -->
     <string name="morphe_settings_return_to_morphe">Tilbage til Morphe hjem</string>
     <string name="morphe_settings_return_to_morphe_description">Tilbage til forenklet tilstand</string>
-    <string name="morphe_settings_return_to_advanced">Skift til Avanceret tilstand</string>
-    <string name="morphe_settings_return_to_advanced_description">Skift til den fuldt udstyrede avancerede tilstand</string>
+    <string name="morphe_settings_return_to_expert">Skift til ekspertmodus</string>
+    <string name="morphe_settings_return_to_expert_description">Skift til den fuldudviklede ekspertmodus</string>
     <string name="morphe_share_website">Del hjemmeside</string>
     <string name="morphe_share_website_description">Del den officielle Morphe-hjemmeside</string>
     <!-- Appearance Section -->

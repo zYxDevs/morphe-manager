@@ -10,7 +10,7 @@
     <!-- Sarcastic joke about blocking ads, intentionally over-the-top -->
     <string name="morphe_home_greeting_4">Satu hari lagi, karya tanpa iklan lainnya</string>
     <!-- "Watch ads" refers to watching video ads in unpatched apps -->
-    <string name="morphe_home_greeting_5">Mau nonton iklan? Saya juga tidak</string>
+    <string name="morphe_home_greeting_5">Mau nonton iklan? Saya pun tidak</string>
     <!-- Friendly, slightly mischievous joke about controlling app behavior -->
     <string name="morphe_home_greeting_6">Ayo membuat aplikasi Anda berperilaku baik</string>
     <!-- Whimsical forecast-style joke, not meant literally -->
@@ -119,8 +119,8 @@
     <!-- Morphe Settings Screen -->
     <string name="morphe_settings_return_to_morphe">Kembali ke beranda Morphe</string>
     <string name="morphe_settings_return_to_morphe_description">Kembali ke mode yang disederhanakan</string>
-    <string name="morphe_settings_return_to_advanced">Ubah ke mode Lanjutan</string>
-    <string name="morphe_settings_return_to_advanced_description">Beralih ke mode lanjutan dengan fitur lengkap</string>
+    <string name="morphe_settings_return_to_expert">Beralih ke Mode Ahli</string>
+    <string name="morphe_settings_return_to_expert_description">Beralih ke Mode Ahli Lengkap</string>
     <string name="morphe_share_website">Bagikan Situs Web</string>
     <string name="morphe_share_website_description">Bagikan situs web resmi Morphe</string>
     <!-- Appearance Section -->

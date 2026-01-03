@@ -2,11 +2,11 @@
 <resources>
     <!-- Morphe Home Screen -->
     <string name="morphe_home_bundles">Pachet de patch-uri</string>
-    <string name="morphe_home_greeting_1">Ce aplicație doriți să actualizați?</string>
+    <string name="morphe_home_greeting_1">Pentru ce aplicație doriți să aplicați patch-uri?</string>
     <!-- Humorous hype message with light nostalgia -->
-    <string name="morphe_home_greeting_2">Gata să faceți YouTube legendară din nou?</string>
+    <string name="morphe_home_greeting_2">Gata să faceți YouTube legendar din nou?</string>
     <!-- "Buckle up" referring to fasten your vehicle seat belt. A light-hearted joke to build excitement. -->
-    <string name="morphe_home_greeting_3">Prindeți-vă centurile, e timpul pentru actualizări</string>
+    <string name="morphe_home_greeting_3">Prindeți-vă centurile, e timpul pentru a aplica patch-uri</string>
     <!-- Sarcastic joke about blocking ads, intentionally over-the-top -->
     <string name="morphe_home_greeting_4">O altă zi, o altă capodoperă fără reclame</string>
     <!-- "Watch ads" refers to watching video ads in unpatched apps -->
@@ -119,8 +119,8 @@
     <!-- Morphe Settings Screen -->
     <string name="morphe_settings_return_to_morphe">Întoarcere la pagina principală Morphe</string>
     <string name="morphe_settings_return_to_morphe_description">Reveniți la modul simplificat</string>
-    <string name="morphe_settings_return_to_advanced">Comutați la modul avansat</string>
-    <string name="morphe_settings_return_to_advanced_description">Comutați la modul avansat cu funcționalități complete</string>
+    <string name="morphe_settings_return_to_expert">Schimbă la modul avansat</string>
+    <string name="morphe_settings_return_to_expert_description">Schimbă la modul expert complet</string>
     <string name="morphe_share_website">Distribuie site-ul web</string>
     <string name="morphe_share_website_description">Distribuie site-ul web oficial Morphe</string>
     <!-- Appearance Section -->

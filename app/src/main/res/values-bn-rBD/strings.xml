@@ -119,8 +119,8 @@
     <!-- Morphe Settings Screen -->
     <string name="morphe_settings_return_to_morphe">Morphe হোমে ফিরে যান</string>
     <string name="morphe_settings_return_to_morphe_description">সরলীকৃত মোডে ফিরে যান</string>
-    <string name="morphe_settings_return_to_advanced">অ্যাডভান্সড মোডে পরিবর্তন করুন</string>
-    <string name="morphe_settings_return_to_advanced_description">সম্পূর্ণ-বৈশিষ্ট্যযুক্ত অ্যাডভান্সড মোডে স্যুইচ করুন</string>
+    <string name="morphe_settings_return_to_expert">প্রোফেশনাল মোড় স্঵িচ করুন</string>
+    <string name="morphe_settings_return_to_expert_description">পুরো ফিচার সহ প্রফেশনাল মোড়ে স্বিচ করুন</string>
     <string name="morphe_share_website">ওয়েবসাইট শেয়ার করুন</string>
     <string name="morphe_share_website_description">Morphe অফিসিয়াল ওয়েবসাইট শেয়ার করুন</string>
     <!-- Appearance Section -->

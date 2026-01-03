@@ -2,11 +2,11 @@
 <resources>
     <!-- Morphe Home Screen -->
     <string name="morphe_home_bundles">Paquete de parches</string>
-    <string name="morphe_home_greeting_1">¿Qué aplicación quieres parchar?</string>
+    <string name="morphe_home_greeting_1">¿Qué aplicación quieres parchear?</string>
     <!-- Humorous hype message with light nostalgia -->
     <string name="morphe_home_greeting_2">¿Listo para hacer que YouTube sea legendario de nuevo?</string>
     <!-- "Buckle up" referring to fasten your vehicle seat belt. A light-hearted joke to build excitement. -->
-    <string name="morphe_home_greeting_3">Abróchate el cinturón, es hora de hacer parches</string>
+    <string name="morphe_home_greeting_3">Abróchate el cinturón, es hora de parchear</string>
     <!-- Sarcastic joke about blocking ads, intentionally over-the-top -->
     <string name="morphe_home_greeting_4">Otro día, otra obra maestra bloqueada por anuncios</string>
     <!-- "Watch ads" refers to watching video ads in unpatched apps -->
@@ -14,7 +14,7 @@
     <!-- Friendly, slightly mischievous joke about controlling app behavior -->
     <string name="morphe_home_greeting_6">Vamos a hacer que tus aplicaciones se comporten</string>
     <!-- Whimsical forecast-style joke, not meant literally -->
-    <string name="morphe_home_greeting_7">El pronóstico de hoy: 100% de probabilidades de parchar</string>
+    <string name="morphe_home_greeting_7">El pronóstico de hoy: 100% de probabilidad de parchear</string>
     <!-- From mediocrity to amazing -->
     <string name="morphe_home_greeting_8">¿Listo para cambiar lo mediocre por lo increíble?</string>
     <!-- Playful exaggeration, making patching feel heroic -->
@@ -26,9 +26,9 @@
     <string name="morphe_home_update_error_subtitle">Comprueba tu conexión a internet e inténtalo de nuevo</string>
     <string name="morphe_home_updating_patches">Actualizando parches…</string>
     <string name="morphe_home_update_success">Actualización completa</string>
-    <string name="morphe_home_patches_updated">Tus parches están actualizados</string>
+    <string name="morphe_home_patches_updated">Tus parches están al día</string>
     <string name="morphe_home_patches_are_loading">Los parches se están cargando, espera…</string>
-    <string name="morphe_home_please_wait">Espera…</string>
+    <string name="morphe_home_please_wait">Por favor espera...</string>
     <string name="morphe_home_open_in_browser">Abrir en el navegador</string>
     <string name="morphe_home_failed_to_open_url">Error al abrir la URL</string>
     <string name="morphe_home_date_added">Añadido</string>
@@ -38,7 +38,7 @@
     <string name="morphe_home_timeline">Historial de actualizaciones</string>
     <!-- Dialog 1: APK Availability -->
     <string name="morphe_home_apk_availability_dialog_title">¿Tienes la APK original sin parchear?</string>
-    <string name="morphe_home_apk_availability_dialog_description_simple">Para parchar %1$s, necesitas la versión %2$s (sin parchar)</string>
+    <string name="morphe_home_apk_availability_dialog_description_simple">Para parchear %1$s, necesitas la versión %2$s (sin parchear)</string>
     <string name="morphe_home_apk_availability_yes">Sí, lo tengo</string>
     <string name="morphe_home_apk_availability_no">No, ayúdame a encontrarlo</string>
     <!-- Dialog 2: Download Instructions -->
@@ -119,8 +119,8 @@
     <!-- Morphe Settings Screen -->
     <string name="morphe_settings_return_to_morphe">Volver a Morphe Inicio</string>
     <string name="morphe_settings_return_to_morphe_description">Volver al modo simplificado</string>
-    <string name="morphe_settings_return_to_advanced">Cambiar a modo avanzado</string>
-    <string name="morphe_settings_return_to_advanced_description">Cambiar al modo avanzado con todas las funciones</string>
+    <string name="morphe_settings_return_to_expert">Cambiar a modo experto</string>
+    <string name="morphe_settings_return_to_expert_description">Cambia al modo experto con todas las funciones</string>
     <string name="morphe_share_website">Compartir sitio web</string>
     <string name="morphe_share_website_description">Comparte el sitio web oficial de Morphe</string>
     <!-- Appearance Section -->

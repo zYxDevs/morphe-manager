@@ -119,8 +119,8 @@
     <!-- Morphe Settings Screen -->
     <string name="morphe_settings_return_to_morphe">返回 Morphe 主頁</string>
     <string name="morphe_settings_return_to_morphe_description">返回簡化模式</string>
-    <string name="morphe_settings_return_to_advanced">變更為進階模式</string>
-    <string name="morphe_settings_return_to_advanced_description">切換到功能齊全的進階模式</string>
+    <string name="morphe_settings_return_to_expert">切换至專家模式</string>
+    <string name="morphe_settings_return_to_expert_description">切換至功能完整的專家模式</string>
     <string name="morphe_share_website">分享網站</string>
     <string name="morphe_share_website_description">分享官方 Morphe 網站</string>
     <!-- Appearance Section -->
