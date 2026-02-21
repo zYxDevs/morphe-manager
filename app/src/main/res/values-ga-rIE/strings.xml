@@ -202,6 +202,15 @@ An bhfuil tú cinnte gur mian leat dul ar aghaidh?"</string>
     <string name="patcher_install_error_subtitle">Déan iarracht é a dhíshuiteáil agus a shuiteáil arís</string>
     <string name="patcher_ready_to_install_subtitle">Brúigh an cnaipe thíos chun é a shuiteáil</string>
     <string name="patcher_ready_to_mount_subtitle">Brúigh an cnaipe thíos chun é a ghléasadh</string>
+    <string name="patcher_storage_permission_dialog_title">Ní féidir leat áiritheoir an pháth</string>
+    <string name="patcher_storage_permission_description_api30">Tá aon pháth nó níos mó ag pointeáil go dtéagascanna nach féidir le Manager Morphe a léamh. Tugann tú an cead chugainn ar an áit chugainn agus cliceann tú an button. Tosaíonn an phátháil automata</string>
+    <string name="patcher_storage_permission_description_legacy">Tá aon pháth nó níos mó ag pointeáil go dtéagascanna nach féidir leo a áirithe. Cuirtear an áit i gcóras pháthála agus tairgfí arís</string>
+    <string name="patcher_storage_permission_grant">Tugann tú an cead chugainn ar an áit</string>
+    <string name="patcher_storage_permission_denied_warning">Dhiultáit an cead chugainn. Tugann cead isteach sa phath is gá, nó tairgfí na ceadán go dtaca le réamhchugainn an app</string>
+    <string name="patcher_storage_permission_open_settings">Oscail na ceadaí</string>
+    <string name="patcher_storage_badge_denied">Dhiultáit an cead</string>
+    <string name="patcher_storage_badge_missing">Níor aimsíodh</string>
+    <string name="patcher_storage_permission_hint">Seo: Tairgfí na ceadán go /Android/data/app.morphe.manager/files/ - ní gá ceadanna extra</string>
     <!-- Patcher Screen - Patcher Steps -->
     <string name="patcher_step_group_preparing">Ag ullmhú</string>
     <string name="patcher_step_load_patches">Paistí á lódáil</string>

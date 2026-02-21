@@ -202,6 +202,15 @@ Weet u zeker dat u doorgaat?"</string>
     <string name="patcher_install_error_subtitle">Probeer opnieuw te verwijderen en te installeren</string>
     <string name="patcher_ready_to_install_subtitle">Druk op de onderstaande knop om te installeren</string>
     <string name="patcher_ready_to_mount_subtitle">Druk op de onderstaande knop om te koppelen</string>
+    <string name="patcher_storage_permission_dialog_title">Kan opslagpad niet openen</string>
+    <string name="patcher_storage_permission_description_api30">Een of meer patch-opties wijzen naar bestanden die Morphe manager niet kan lezen. Geef opslagtoegang en druk op de knop om automatisch te patchen te starten</string>
+    <string name="patcher_storage_permission_description_legacy">Een of meer patch-opties wijzen naar bestanden die niet kunnen worden geopend. Update de bestanden in patch-opties en probeer het nogmaals</string>
+    <string name="patcher_storage_permission_grant">Geef opslagtoegang</string>
+    <string name="patcher_storage_permission_denied_warning">Opslagtoestemming werd geweigerd. Geef de toestemming om deze pad te gebruiken, of verplaats de bestanden naar de app\'s private directory</string>
+    <string name="patcher_storage_permission_open_settings">Open opslaginstellingen</string>
+    <string name="patcher_storage_badge_denied">Toestemming geweigerd</string>
+    <string name="patcher_storage_badge_missing">Niet gevonden</string>
+    <string name="patcher_storage_permission_hint">Tip: Verplaats bestanden naar /Android/data/app.morphe.manager/files/ - geen extra toestemmingen nodig</string>
     <!-- Patcher Screen - Patcher Steps -->
     <string name="patcher_step_group_preparing">Voorbereiden</string>
     <string name="patcher_step_load_patches">Patches laden</string>
